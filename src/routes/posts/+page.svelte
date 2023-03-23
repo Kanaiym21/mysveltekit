@@ -1,2 +1,7 @@
-<h1>Title of Page</h1>
-<p>Basic page description</p>
+<script>
+    export let data;
+  </script>
+  
+  <h1>{data.post.title}</h1>
+  <p>Article #{data.post.slug}</p>
+  <p>{data.post.content}</p>
