@@ -1,9 +1,8 @@
 <script>
-const links = [
-    {'href': '/', 'label': 'Home'},
-    {'href': '/Gallery', 'label': 'Gallery'}
-]
-</script>
+    const links = [
+        
+    ]
+    </script>
 
 <main>
     <ul>
