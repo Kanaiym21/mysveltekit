@@ -11,6 +11,7 @@
     <a href="/resources">Resources</a>
     <a href="/donate">Donate</a>
     <a href="/about">About</a>
+    <a href="/gallery">Gallery</a>
   </nav>
   <main>
 <slot />
@@ -32,7 +33,8 @@
     }
     footer {
     grid-row: 3;
-    position: sticky;
+    display: flex;
+    justify-content: center;
     bottom: 0;
   }
   </style>
