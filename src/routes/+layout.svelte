@@ -8,7 +8,7 @@
     <a href="/">Home</a>
     <a href="/posts">Posts</a>
     <a href="/search">Search</a>
-    <a href="/unitedstates">United States</a>
+    <a href="/unitedstates">The United States</a>
     <a href="/gallery">Gallery</a>
   </nav>
   <main>
