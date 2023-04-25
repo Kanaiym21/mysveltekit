@@ -9,8 +9,6 @@
     <a href="/posts">Posts</a>
     <a href="/search">Search</a>
     <a href="/unitedstates">United States</a>
-    <a href="/donate">Donate</a>
-    <a href="/about">About</a>
     <a href="/gallery">Gallery</a>
   </nav>
   <main>
