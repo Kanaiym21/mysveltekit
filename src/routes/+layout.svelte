@@ -7,7 +7,7 @@
 <nav>
     <a href="/">Home</a>
     <a href="/posts">Posts</a>
-    <a href="/favs">Favs</a>
+    <a href="/search">Search</a>
     <a href="/resources">Resources</a>
     <a href="/donate">Donate</a>
     <a href="/about">About</a>
