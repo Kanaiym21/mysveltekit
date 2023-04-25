@@ -2,7 +2,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --accent: seagreen;
+    --accent: #BA90C6;
   }
 }
 body {
@@ -11,10 +11,10 @@ body {
   grid-template-columns: 1fr 4fr 1fr;
 }
 body > div {
-  display: grid;
-  grid-template-rows: auto 1fr auto;
+
   min-height: 100vh
 }
 h1 {
-  color:seagreen;
+  margin: 1.2em 0 .5em 0;
+  color:purple;
 }
