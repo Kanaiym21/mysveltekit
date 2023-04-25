@@ -1,2 +1,4 @@
-<h1>Welcome to my SvelteKit project</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<article>
+<h1>Art Gallery</h1>
+<p> Welcome to <a href="https://www.artic.edu/">the Museum of Arts of Chicago</a>, a world-renowned cultural institution located in the heart of the United States. With a vast collection spanning thousands of years and multiple continents, our museum offers a unique opportunity to explore the rich history and diversity of art from around the globe. Our website features easy-to-use navigation bars, allowing you to search for specific pieces or explore different galleries and collections. You can also stay up-to-date on the latest news and events through our posts section. We invite you to immerse yourself in the beauty and wonder of art at the Museum of Arts of Chicago. You can search for some amazing art works or you can see already filtered information on the nav bar of the page! </p>
+</article>
